@@ -16,12 +16,12 @@ Customers can book mileage packages via the app, and once their mileage limit is
 
 | Feature                     | Description                                                                 |
 |----------------------------|-----------------------------------------------------------------------------|
-| 🔐 Mileage Control         | Customers pay for a specific distance; car auto-disables after limit.       |
-| 📡 Real-Time Monitoring    | Speed, location, engine status, and mileage are viewable live.              |
-| 🛑 Remote Shutdown         | Vehicle can be shut down manually by the owner via app.                     |
-| 🧰 Vehicle Diagnostics      | Reads fault codes (DTCs) and other OBD2 data for remote maintenance.         |
-| 🌐 Cloud Data Sync         | Sends data to a server using HTTP POST via the SIM800L GSM module.          |
-| 📲 Dual App System         | Mobile apps for both customer and owner interfaces.                         |
+| Mileage Control         | Customers pay for a specific distance; car auto-disables after limit.       |
+| Real-Time Monitoring    | Speed, location, engine status, and mileage are viewable live.              |
+| Remote Shutdown         | Vehicle can be shut down manually by the owner via app.                     |
+| Vehicle Diagnostics      | Reads fault codes (DTCs) and other OBD2 data for remote maintenance.         |
+| Cloud Data Sync         | Sends data to a server using HTTP POST via the SIM800L GSM module.          |
+| Dual App System         | Mobile apps for both customer and owner interfaces.                         |
 
 ---
 
